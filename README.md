@@ -18,7 +18,7 @@ Author : Rujeena Al-zyoud
 
 ## Here the links:
 
-[deployment for Bearer-auth ](https://app-auth-rujeena.herokuapp.com/)
+[deployment for aurh-api ](https://app-auth-rujeena.herokuapp.com/)
 
 ____________________________________________
 
@@ -30,8 +30,7 @@ ______________________________________________
 
 
 
-========================================
-my uml link:
+### my uml link:
 
 [UML](https://lucid.app/lucidchart/invitations/accept/inv_9a4a88a1-e39a-4b41-8732-111f8a02ae40?viewport_loc=-790%2C-120%2C3670%2C1674%2C0_0)
 
