@@ -18,14 +18,14 @@ Author : Rujeena Al-zyoud
 
 ## Here the links:
 
-[deployment for Bearer-auth ](https://auth-bearer-server-rujeena.herokuapp.com/)
+[deployment for Bearer-auth ](https://app-auth-rujeena.herokuapp.com/)
 
 ____________________________________________
 
-[PR](https://github.com/rujeenaal-zyoud/bearer-auth/pulls?q=is%3Apr+is%3Aclosed)
+[PR](https://github.com/rujeenaal-zyoud/auth-api/pulls?q=is%3Apr+is%3Aclosed)
 ______________________________________________
 
-[GitHub Actions](https://github.com/rujeenaal-zyoud/bearer-auth/actions/workflows/node.js.yml)
+[GitHub Actions](https://github.com/rujeenaal-zyoud/auth-api/actions/workflows/node.js.yml)
 
 
 

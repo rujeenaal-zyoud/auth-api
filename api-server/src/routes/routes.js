@@ -32,8 +32,7 @@ authRouter.post('/signin', basicAuth, (req, res, next) => {
   res.status(200).json(user);
 });
 
-authRouter.get(
-  '/users',
+authRouter.get('/users',
   bearerAuth,
 //   permissions('delete'),
   async (req, res, next) => {
